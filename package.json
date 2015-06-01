@@ -1,7 +1,7 @@
 {
   "name": "postgres2geojson",
   "version": "1.0.0",
-  "description": "",
+  "description": "turn postgres into geojson",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,7 +19,8 @@
   "dependencies": {
     "debug": "^2.2.0",
     "io-stream": "^2.0.2",
-    "knex": "tgriesser/knex#master",
+    "knex": "^0.8.6",
+    "noms": "0.0.0",
     "pg": "^4.3.0",
     "pg-query-stream": "^0.7.0"
   },
