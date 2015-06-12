@@ -6,16 +6,11 @@ var debug = require('debug')('fromPostgres');
 module.exports = fromPostgres;
 
 function fromPostgres(connection, table, geom, primary, offset, limit) {
-  var nogeom = false;
-
-  if (geom === false){
-      nogeom = true;
-  }
+  var nogeom = (geom === false);
 
   geom = geom || 'shape';
   primary = primary || 'objectid';
   var db = knex({
-      debug: true,
     client: 'pg',
     connection: connection
   });
@@ -39,7 +34,7 @@ function fromPostgres(connection, table, geom, primary, offset, limit) {
       objectMode: true,
       transform: function (chunk, _, next) {
         var geo;
-        if (chunk.__geom__npm ) {
+        if (chunk.__geom__) {
             try {
                 geo = JSON.parse(chunk.__geom__);
             } catch (e) {
