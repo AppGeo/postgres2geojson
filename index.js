@@ -6,9 +6,16 @@ var debug = require('debug')('fromPostgres');
 module.exports = fromPostgres;
 
 function fromPostgres(connection, table, geom, primary, offset, limit) {
+  var nogeom = false;
+
+  if (geom === false){
+      nogeom = true;
+  }
+
   geom = geom || 'shape';
   primary = primary || 'objectid';
   var db = knex({
+      debug: true,
     client: 'pg',
     connection: connection
   });
@@ -17,7 +24,7 @@ function fromPostgres(connection, table, geom, primary, offset, limit) {
     query = noms(function (done) {
       var self = this;
       db(table)
-       .select(db.raw('*, st_asgeojson(ST_Transform("' + geom + '", 4326)) as __geom__')).where(primary, '<=', limit).then(function (resp) {
+       .select(nogeom ? '*' : db.raw('*, st_asgeojson(ST_Transform("' + geom + '", 4326)) as __geom__')).where(primary, '<=', limit).then(function (resp) {
         resp.forEach(function (item) {
           this.push(item);
         }, self);
@@ -26,19 +33,21 @@ function fromPostgres(connection, table, geom, primary, offset, limit) {
     });
   } else {
     query = makeStream(db(table)
-      .select(db.raw('*, st_asgeojson(ST_Transform("' + geom + '", 4326)) as __geom__')), primary, offset);
+      .select(nogeom ? '*' : db.raw('*, st_asgeojson(ST_Transform("' + geom + '", 4326)) as __geom__')), primary, offset);
   }
   var out = new Transform({
       objectMode: true,
       transform: function (chunk, _, next) {
         var geo;
-        try {
-          geo = JSON.parse(chunk.__geom__);
-        } catch (e) {
-          return next(e);
+        if (chunk.__geom__npm ) {
+            try {
+                geo = JSON.parse(chunk.__geom__);
+            } catch (e) {
+            return next(e);
+            }
+            delete chunk.__geom__;
+            delete chunk[geom];
         }
-        delete chunk.__geom__;
-        delete chunk[geom];
         this.push({
           type: 'feature',
           properties: chunk,
