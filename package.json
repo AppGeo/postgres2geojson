@@ -18,11 +18,11 @@
   "homepage": "https://github.com/calvinmetcalf/postgres2geojson#readme",
   "dependencies": {
     "debug": "^2.2.0",
-    "io-stream": "^2.0.2",
     "knex": "^0.8.6",
     "noms": "0.0.0",
     "pg": "^4.3.0",
-    "pg-query-stream": "^0.7.0"
+    "pg-query-stream": "^0.7.0",
+    "readable-stream": "^2.0.0"
   },
   "devDependencies": {
     "jsonstream2a": "^2.0.3"

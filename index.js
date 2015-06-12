@@ -1,6 +1,6 @@
 'use strict';
 var knex = require('knex');
-var Transform = require('io-stream').Transform;
+var Transform = require('readable-stream').Transform;
 var noms = require('noms').obj;
 var debug = require('debug')('fromPostgres');
 module.exports = fromPostgres;
