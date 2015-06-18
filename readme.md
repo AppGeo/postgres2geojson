@@ -1,4 +1,4 @@
 postgres2geojson
 ===
 
-`fromPostgres(connection, table[, geom, primary, offset, limit]).pipe(somewhere)`
+`fromPostgres(connection, table[, geom, offset, limit]).pipe(somewhere)`
