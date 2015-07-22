@@ -14,6 +14,12 @@ function fromPostgres(connection, table, geom, offset, limit) {
   });
   var query = db(table)
    .select(nogeom ? '*' : db.raw('*, st_asgeojson(ST_Transform("' + geom + '", 4326)) as __geom__'));
+  if (limit) {
+    query.limit(limit);
+  }
+  if (offset) {
+    query.offset(offset);
+  }
   var out = new Transform({
       objectMode: true,
       transform: function (chunk, _, next) {
