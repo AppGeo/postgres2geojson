@@ -1,7 +1,7 @@
 'use strict';
 var fromPostgres = require('./');
 var test = require('tape');
-var foo = require('./foo.json');
+var foo = require('./fixtures/foo.json');
 
 test('compare', function (t) {
   t.plan(1);
