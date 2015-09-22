@@ -1,0 +1,307 @@
+[
+{"type":"feature","properties":{"gid":1,"descriptio":null,"name":"Meigs' Experimental Railway","neighborho":"East Cambridge","marker_typ":"Blue Oval","address":"221 O'Brien Hwy","editdate":null},"geometry":{"type":"Point","coordinates":[-71.0800330863145,42.3728893313364]}}
+,
+{"type":"feature","properties":{"gid":2,"descriptio":null,"name":"Middlesex County Courthouse","neighborho":"East Cambridge","marker_typ":"Blue Oval","address":"90 Third St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.0799442902576,42.3699774012375]}}
+,
+{"type":"feature","properties":{"gid":3,"descriptio":null,"name":"New England Glass Company","neighborho":"East Cambridge","marker_typ":"Blue Oval","address":"165 O'Brien Hwy","editdate":null},"geometry":{"type":"Point","coordinates":[-71.0774735302966,42.37168219492]}}
+,
+{"type":"feature","properties":{"gid":4,"descriptio":"Adjacent to 100 Mount Auburn St","name":"Marketplace","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"Winthrop Square Park","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1205383926361,42.3726110867343]}}
+,
+{"type":"feature","properties":{"gid":5,"descriptio":null,"name":"Harvard Branch Railroad","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"Cambridge St near Littauer Hall","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1182878416615,42.3762208766102]}}
+,
+{"type":"feature","properties":{"gid":6,"descriptio":null,"name":"Windmill Hill","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"Ash St at Memorial Dr","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1262453707075,42.3732983367754]}}
+,
+{"type":"feature","properties":{"gid":7,"descriptio":null,"name":"Tory Row","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"Brattle St at Elmwood","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1374422245732,42.3767270758244]}}
+,
+{"type":"feature","properties":{"gid":8,"descriptio":null,"name":"Tory Row","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"Brattle St at Mason St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1246242232622,42.3760711007485]}}
+,
+{"type":"feature","properties":{"gid":9,"descriptio":null,"name":"Tory Row","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"Brattle St at Fresh Pond Pkwy","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1407752518884,42.3760671835843]}}
+,
+{"type":"feature","properties":{"gid":10,"descriptio":null,"name":"Old Burial Ground","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"Massachusetts Ave at Garden St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1192117777159,42.3749122999997]}}
+,
+{"type":"feature","properties":{"gid":11,"descriptio":null,"name":"Revolutionary Soldiers","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"Massachusetts Ave at Garden St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1195920770439,42.3752078873409]}}
+,
+{"type":"feature","properties":{"gid":12,"descriptio":"Old Burial Ground","name":"Old Milestone","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"Massachusetts Ave at Garden St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.119186261956,42.3748351894419]}}
+,
+{"type":"feature","properties":{"gid":13,"descriptio":null,"name":"Lewis and Milton Clarke","neighborho":"Cambridgeport","marker_typ":"African American","address":"2 Florence Pl","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1008626077584,42.3659777826326]}}
+,
+{"type":"feature","properties":{"gid":14,"descriptio":"Island at Massachusetts Ave at Garden St","name":"Harvard Square","neighborho":"Old Cambridge","marker_typ":"History Station","address":"Dawes Park","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1194482335973,42.3753969171558]}}
+,
+{"type":"feature","properties":{"gid":15,"descriptio":"Adjacent to 100 Mount Auburn St","name":"Winthrop Square","neighborho":"Old Cambridge","marker_typ":"History Station","address":"Winthrop Square","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1204910526346,42.3725938624275]}}
+,
+{"type":"feature","properties":{"gid":16,"descriptio":null,"name":"Cambridge Poor Farm","neighborho":"NW Cambridge","marker_typ":"North Cambridge","address":"45 Matignon Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1328061473207,42.402087495636]}}
+,
+{"type":"feature","properties":{"gid":17,"descriptio":null,"name":"Fish Weir","neighborho":"NW Cambridge","marker_typ":"North Cambridge","address":"opposite 20 Alewife Brook Pkwy","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1352060772024,42.4020169223386]}}
+,
+{"type":"feature","properties":{"gid":18,"descriptio":"near Littauer Hall","name":"Continental Troops","neighborho":"Old Cambridge","marker_typ":"Tombstone","address":"Cambridge St at Massachusetts Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.117865449999,42.3761785327439]}}
+,
+{"type":"feature","properties":{"gid":19,"descriptio":"west end of Littauer Hall","name":"Hastings-Holmes House","neighborho":"Old Cambridge","marker_typ":"Tombstone","address":"Cambridge St at Massachusetts Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1187024787188,42.3763279532944]}}
+,
+{"type":"feature","properties":{"gid":20,"descriptio":"at South St","name":"John Hicks House","neighborho":"Old Cambridge","marker_typ":"Tombstone","address":"64 J.F. Kennedy St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1208556825777,42.3715387063875]}}
+,
+{"type":"feature","properties":{"gid":21,"descriptio":"near Otis St","name":"Lechmere Point","neighborho":"East Cambridge","marker_typ":"Tombstone","address":"41 Second St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.078877690724,42.3700800264911]}}
+,
+{"type":"feature","properties":{"gid":22,"descriptio":"on Water Dept. headhouse","name":"Cambridge Common","neighborho":"Old Cambridge","marker_typ":"Cast-Iron","address":"Cambridge Common","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1198079305941,42.3763684100125]}}
+,
+{"type":"feature","properties":{"gid":23,"descriptio":null,"name":"Oldest Church in East Cambridge","neighborho":"East Cambridge","marker_typ":"Blue Oval","address":"99 Third St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.0802708937941,42.3697335470581]}}
+,
+{"type":"feature","properties":{"gid":24,"descriptio":null,"name":"Frederick Hastings Rindge","neighborho":"East Cambridge","marker_typ":"Blue Oval","address":"73 Thorndike St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.08111349749,42.3698700632622]}}
+,
+{"type":"feature","properties":{"gid":25,"descriptio":null,"name":"J. P. Squire Company","neighborho":"East Cambridge","marker_typ":"Blue Oval","address":"155 Gore St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.0848663554933,42.3726057951618]}}
+,
+{"type":"feature","properties":{"gid":26,"descriptio":null,"name":"James D. Green House","neighborho":"East Cambridge","marker_typ":"Blue Oval","address":"96 Thorndike St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.082352868956,42.3698347533382]}}
+,
+{"type":"feature","properties":{"gid":27,"descriptio":null,"name":"Lechmere Point Corporation Houses","neighborho":"East Cambridge","marker_typ":"Blue Oval","address":"25 Third St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.0797528610094,42.3718261846093]}}
+,
+{"type":"feature","properties":{"gid":28,"descriptio":null,"name":"Quality Row","neighborho":"East Cambridge","marker_typ":"Blue Oval","address":"83 Third St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.0801448348401,42.3702379155242]}}
+,
+{"type":"feature","properties":{"gid":29,"descriptio":null,"name":"Saint John's Literary Institute","neighborho":"East Cambridge","marker_typ":"Blue Oval","address":"277 Cambridge St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.0806105049791,42.3712109912324]}}
+,
+{"type":"feature","properties":{"gid":30,"descriptio":null,"name":"Thomas Graves House","neighborho":"East Cambridge","marker_typ":"Blue Oval","address":"67 Spring St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.0810210247191,42.3690816813308]}}
+,
+{"type":"feature","properties":{"gid":31,"descriptio":"Pleasant St corner of Massachusetts Ave","name":"Cambridge Athenaeum","neighborho":"Cambridgeport","marker_typ":"Blue Oval","address":"750 Massachusetts Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1055001622053,42.3662232970433]}}
+,
+{"type":"feature","properties":{"gid":32,"descriptio":null,"name":"Cambridge City Hall","neighborho":"Cambridgeport","marker_typ":"Blue Oval","address":"795 Massachusetts Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1057962059716,42.3670461910922]}}
+,
+{"type":"feature","properties":{"gid":33,"descriptio":null,"name":"Davenport Car Manufactory","neighborho":"Cambridgeport","marker_typ":"Blue Oval","address":"708 Main St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.0950743182928,42.362987191853]}}
+,
+{"type":"feature","properties":{"gid":34,"descriptio":null,"name":"First Cambridge Newspaper","neighborho":"Cambridgeport","marker_typ":"Blue Oval","address":"636 Massachusetts Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1037354762076,42.3652226392294]}}
+,
+{"type":"feature","properties":{"gid":35,"descriptio":null,"name":"Fort #1","neighborho":"Cambridgeport","marker_typ":"Blue Oval","address":"889 Memorial Dr","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1157348744936,42.3649680363651]}}
+,
+{"type":"feature","properties":{"gid":36,"descriptio":null,"name":"Harry Ellis Dickson","neighborho":"Cambridgeport","marker_typ":"Blue Oval","address":"254 Western Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1117214280183,42.3645714019528]}}
+,
+{"type":"feature","properties":{"gid":37,"descriptio":null,"name":"Hiram Sands House","neighborho":"Cambridgeport","marker_typ":"Blue Oval","address":"22 Putnam Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1132865443313,42.3693682458241]}}
+,
+{"type":"feature","properties":{"gid":38,"descriptio":null,"name":"Howard Industrial School","neighborho":"Cambridgeport","marker_typ":"Blue Oval","address":"380 Putnam Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1129704999063,42.3603664395781]}}
+,
+{"type":"feature","properties":{"gid":39,"descriptio":null,"name":"James B. Barnes House","neighborho":"Cambridgeport","marker_typ":"Blue Oval","address":"109 Hampshire St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.0956999964155,42.3696827816077]}}
+,
+{"type":"feature","properties":{"gid":40,"descriptio":null,"name":"Kennedy Steam Bakery","neighborho":"Cambridgeport","marker_typ":"Blue Oval","address":"410 Massachusetts Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1004028816921,42.3632123481149]}}
+,
+{"type":"feature","properties":{"gid":41,"descriptio":null,"name":"Margaret Fuller House","neighborho":"Cambridgeport","marker_typ":"Blue Oval","address":"71 Cherry St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.0973846707257,42.3645855254994]}}
+,
+{"type":"feature","properties":{"gid":42,"descriptio":null,"name":"Mason & Hamlin Company","neighborho":"Cambridgeport","marker_typ":"Blue Oval","address":"162 Broadway","editdate":null},"geometry":{"type":"Point","coordinates":[-71.0907748630164,42.3651496511095]}}
+,
+{"type":"feature","properties":{"gid":43,"descriptio":"and 5-7 Cottage St","name":"Soap Workers Cottages","neighborho":"Cambridgeport","marker_typ":"Blue Oval","address":"101 Pearl St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1052817587234,42.3623702980029]}}
+,
+{"type":"feature","properties":{"gid":44,"descriptio":null,"name":"Washington Allston's Studio","neighborho":"Cambridgeport","marker_typ":"Blue Oval","address":"21 Magazine St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1057022260544,42.3640646186725]}}
+,
+{"type":"feature","properties":{"gid":45,"descriptio":null,"name":"Washington Allston","neighborho":"Cambridgeport","marker_typ":"Blue Oval","address":"172-174 Auburn St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1053536560896,42.3636804044069]}}
+,
+{"type":"feature","properties":{"gid":46,"descriptio":null,"name":"William Lloyd Garrison","neighborho":"Cambridgeport","marker_typ":"Blue Oval","address":"283-285 Broadway","editdate":null},"geometry":{"type":"Point","coordinates":[-71.0983724269315,42.3683373922224]}}
+,
+{"type":"feature","properties":{"gid":47,"descriptio":null,"name":"Cambridge Public Library","neighborho":"Mid-Cambridge","marker_typ":"Blue Oval","address":"449 Broadway","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1110441287445,42.3740315944361]}}
+,
+{"type":"feature","properties":{"gid":48,"descriptio":null,"name":"Opposition House","neighborho":"Mid-Cambridge","marker_typ":"Blue Oval","address":"2 Hancock Pl","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1068465324355,42.3696175566217]}}
+,
+{"type":"feature","properties":{"gid":49,"descriptio":null,"name":"Revolutionary Earthworks","neighborho":"Mid-Cambridge","marker_typ":"Blue Oval","address":"393 Broadway","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1065607128432,42.371596732206]}}
+,
+{"type":"feature","properties":{"gid":50,"descriptio":null,"name":"Sarah Colburn House","neighborho":"Mid-Cambridge","marker_typ":"Blue Oval","address":"7 Dana St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1103053864153,42.3700231566143]}}
+,
+{"type":"feature","properties":{"gid":51,"descriptio":null,"name":"Aaron Hill House","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"17 Brown St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1289230563382,42.3761439629301]}}
+,
+{"type":"feature","properties":{"gid":52,"descriptio":null,"name":"Bartlett House","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"165 Brattle St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1353851578241,42.3773745406951]}}
+,
+{"type":"feature","properties":{"gid":53,"descriptio":null,"name":"Blue Anchor Tavern","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"9-15 J. F. Kennedy St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1198022852592,42.3730658461292]}}
+,
+{"type":"feature","properties":{"gid":54,"descriptio":null,"name":"Brattle House","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"42 Brattle St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1215291521621,42.3737180441286]}}
+,
+{"type":"feature","properties":{"gid":55,"descriptio":"East side of Dunster St near SW corner","name":"Captain John Bonner","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"70 Dunster St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1198278953863,42.371261812316]}}
+,
+{"type":"feature","properties":{"gid":56,"descriptio":null,"name":"Cooper-Frost-Austin House","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"21 Linnaean St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1218021847256,42.384451324135]}}
+,
+{"type":"feature","properties":{"gid":57,"descriptio":null,"name":"Dexter Pratt House","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"54 Brattle St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.122207946799,42.3744995094814]}}
+,
+{"type":"feature","properties":{"gid":58,"descriptio":null,"name":"e.e. cummings","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"104 Irving St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1108008213859,42.3787489837865]}}
+,
+{"type":"feature","properties":{"gid":59,"descriptio":null,"name":"Elmwood","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"33 Elmwood Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1382728210346,42.3754285356618]}}
+,
+{"type":"feature","properties":{"gid":60,"descriptio":null,"name":"First Church, Congregational","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"11 Garden St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1226621238533,42.3767246579199]}}
+,
+{"type":"feature","properties":{"gid":61,"descriptio":null,"name":"First Middlesex County Jail","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"104 Mount Auburn St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1213106622188,42.3727839288284]}}
+,
+{"type":"feature","properties":{"gid":62,"descriptio":null,"name":"Harvard Botanic Gardens House","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"88 Garden St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1279649042654,42.3830168977907]}}
+,
+{"type":"feature","properties":{"gid":63,"descriptio":null,"name":"Henry Vassal House","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"94 Brattle St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1254842658253,42.3760677023018]}}
+,
+{"type":"feature","properties":{"gid":64,"descriptio":null,"name":"Hooper-Lee-Nichols House","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"159 Brattle St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1341768417417,42.3775173202108]}}
+,
+{"type":"feature","properties":{"gid":65,"descriptio":null,"name":"Isaac Greenwood","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"12 Hawthorne St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1257819581437,42.3757880350248]}}
+,
+{"type":"feature","properties":{"gid":66,"descriptio":"Harvard Faculty Club","name":"James Family","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"20 Quincy St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.114601382563,42.3732552224992]}}
+,
+{"type":"feature","properties":{"gid":67,"descriptio":null,"name":"Judge Samuel Danforth","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"24-26 Dunster St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1190495248735,42.3726340180293]}}
+,
+{"type":"feature","properties":{"gid":68,"descriptio":null,"name":"Justin Winsor","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"74 Sparks St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1315698538925,42.3801335090879]}}
+,
+{"type":"feature","properties":{"gid":69,"descriptio":null,"name":"Lois Lilley House","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"6 Appleton St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.133325277338,42.3779063522759]}}
+,
+{"type":"feature","properties":{"gid":70,"descriptio":null,"name":"Louis and Elizabeth Agassiz","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"36 Quincy St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.114437013756,42.3745450720339]}}
+,
+{"type":"feature","properties":{"gid":71,"descriptio":null,"name":"Melusina Fay Peirce","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"10 Arrow St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1144937256632,42.3709908359595]}}
+,
+{"type":"feature","properties":{"gid":72,"descriptio":null,"name":"Munroe House","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"8 Willard St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1279333566252,42.3759230517201]}}
+,
+{"type":"feature","properties":{"gid":73,"descriptio":null,"name":"Oliver Hastings House","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"99 Brattle St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1258611844087,42.3766968817148]}}
+,
+{"type":"feature","properties":{"gid":74,"descriptio":null,"name":"Professor John Winthrop","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"93 Mount Auburn St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1199837525332,42.3725884008194]}}
+,
+{"type":"feature","properties":{"gid":75,"descriptio":null,"name":"Robert Frost","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"35 Brewster St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1322452309794,42.378608102724]}}
+,
+{"type":"feature","properties":{"gid":76,"descriptio":null,"name":"Ruggles-Fayerweather House","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"175 Brattle St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1364249028926,42.3772484760566]}}
+,
+{"type":"feature","properties":{"gid":77,"descriptio":null,"name":"Simon & Anne Bradstreet","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"1380 Massachusetts Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1191781225988,42.3733842891953]}}
+,
+{"type":"feature","properties":{"gid":78,"descriptio":null,"name":"Stedman House","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"17 South St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1202492170876,42.3714277935601]}}
+,
+{"type":"feature","properties":{"gid":79,"descriptio":null,"name":"Stoughton House","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"90 Brattle St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1247449425582,42.3758661283809]}}
+,
+{"type":"feature","properties":{"gid":80,"descriptio":null,"name":"T.S. Eliot","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"16 Ash St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1248219756013,42.3747840084113]}}
+,
+{"type":"feature","properties":{"gid":81,"descriptio":null,"name":"Thomas Wentworth Higginson","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"29 Buckingham St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1300582916785,42.380716464956]}}
+,
+{"type":"feature","properties":{"gid":82,"descriptio":null,"name":"Treadwell-Sparks House","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"21 Kirkland St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1150134639296,42.376720472233]}}
+,
+{"type":"feature","properties":{"gid":83,"descriptio":null,"name":"Waterhouse House","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"7 Waterhouse St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1217336972499,42.3777396313519]}}
+,
+{"type":"feature","properties":{"gid":84,"descriptio":null,"name":"William Brewster","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"145 Brattle St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1310984062038,42.3779814452424]}}
+,
+{"type":"feature","properties":{"gid":85,"descriptio":null,"name":"William Dean Howells","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"37 Concord Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1267142905304,42.3801712289358]}}
+,
+{"type":"feature","properties":{"gid":86,"descriptio":null,"name":"William Eustis Russsell","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"174 Brattle St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1362230345619,42.376775117297]}}
+,
+{"type":"feature","properties":{"gid":87,"descriptio":null,"name":"William James","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"95 Irving St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1109520981315,42.378139214146]}}
+,
+{"type":"feature","properties":{"gid":88,"descriptio":"Byerly Hall","name":"Winslow Homer","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"8 Garden St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1216861508883,42.3761661898686]}}
+,
+{"type":"feature","properties":{"gid":89,"descriptio":null,"name":"Worcester House","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"121 Brattle St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1281611128281,42.3775090369645]}}
+,
+{"type":"feature","properties":{"gid":90,"descriptio":null,"name":"Wyeth-Eliot House","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"219 Brattle St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1405748078412,42.3763149505202]}}
+,
+{"type":"feature","properties":{"gid":91,"descriptio":null,"name":"Abraham Watson house","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"181-183 Sherman St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1328991041806,42.3924620842894]}}
+,
+{"type":"feature","properties":{"gid":92,"descriptio":"Rindge Ave at Rice St","name":"Barry's Corner","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"151 Rindge Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1307004219826,42.3934793785154]}}
+,
+{"type":"feature","properties":{"gid":93,"descriptio":null,"name":"Davenport Tavern","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"1991 Massachusetts Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.121561332429,42.3906980784663]}}
+,
+{"type":"feature","properties":{"gid":94,"descriptio":"Cambridge Water Department","name":"First Business Telephone","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"250 Fresh Pond Pkwy","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1437869617008,42.3826237243477]}}
+,
+{"type":"feature","properties":{"gid":95,"descriptio":null,"name":"Henderson Carriage Repository","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"2067-2089 Massachusetts Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1228766224888,42.3913608616928]}}
+,
+{"type":"feature","properties":{"gid":96,"descriptio":null,"name":"Kidder-Sargent House","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"146 Rindge Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1305786994466,42.3932200310089]}}
+,
+{"type":"feature","properties":{"gid":97,"descriptio":null,"name":"Porter's Cattle Market Hotel","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"1976 Massachusetts Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1208606184451,42.3900811568114]}}
+,
+{"type":"feature","properties":{"gid":98,"descriptio":null,"name":"Tudor Ice Company","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"650 Concord Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1486094977462,42.3895999893015]}}
+,
+{"type":"feature","properties":{"gid":99,"descriptio":"fence adjacent to 106 Winthrop St","name":"Old Stone Wall","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"104 Winthrop St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1212813683007,42.3724598945891]}}
+,
+{"type":"feature","properties":{"gid":100,"descriptio":null,"name":"Old Courthouse","neighborho":"Old Cambridge","marker_typ":"Blue Oval","address":"1400 Massachusetts Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1193209518319,42.3736828505501]}}
+,
+{"type":"feature","properties":{"gid":101,"descriptio":"Agassiz School","name":"Maria Baldwin","neighborho":"Mid-Cambridge","marker_typ":"African American","address":"32 Sacramento St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1164929698511,42.382511338655]}}
+,
+{"type":"feature","properties":{"gid":102,"descriptio":null,"name":"Charlotte Hawkins Brown","neighborho":"Cambridgeport","marker_typ":"African American","address":"55 Essex St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1011686786372,42.3675598731478]}}
+,
+{"type":"feature","properties":{"gid":103,"descriptio":null,"name":"William Wells Brown","neighborho":"Cambridgeport","marker_typ":"African American","address":"1 Lilac Ct","editdate":null},"geometry":{"type":"Point","coordinates":[-71.0923703516465,42.3672579139482]}}
+,
+{"type":"feature","properties":{"gid":104,"descriptio":null,"name":"W.E.B. Du Bois","neighborho":"Cambridgeport","marker_typ":"African American","address":"20 Flagg St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1142915231962,42.3676471876505]}}
+,
+{"type":"feature","properties":{"gid":105,"descriptio":null,"name":"John J. Fatal","neighborho":"Cambridgeport","marker_typ":"African American","address":"49 Lincoln St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.094543403413,42.3712097140641]}}
+,
+{"type":"feature","properties":{"gid":106,"descriptio":"College House entryway","name":"Richard T. Greener","neighborho":"Old Cambridge","marker_typ":"African American","address":"1430 Massachusetts Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1190643276145,42.3740963833901]}}
+,
+{"type":"feature","properties":{"gid":107,"descriptio":null,"name":"Pauline Hopkins","neighborho":"NW Cambridge","marker_typ":"African American","address":"53 Clifton St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1361791750122,42.3952134309994]}}
+,
+{"type":"feature","properties":{"gid":108,"descriptio":null,"name":"Harriet Jacobs","neighborho":"Old Cambridge","marker_typ":"African American","address":"17 Story St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1231094565108,42.3737443619624]}}
+,
+{"type":"feature","properties":{"gid":109,"descriptio":null,"name":"Lunsford Lane","neighborho":"Cambridgeport","marker_typ":"African American","address":"44 Webster Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.0927798785836,42.367769269547]}}
+,
+{"type":"feature","properties":{"gid":110,"descriptio":null,"name":"William H. Lewis","neighborho":"NW Cambridge","marker_typ":"African American","address":"226 Upland Rd","editdate":null},"geometry":{"type":"Point","coordinates":[-71.127838384022,42.3858169985023]}}
+,
+{"type":"feature","properties":{"gid":111,"descriptio":"St. Augustine's African Orthodox Church","name":"Bishop George A. McGuire","neighborho":"Cambridgeport","marker_typ":"African American","address":"137 Allston St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1076012810158,42.3583707222703]}}
+,
+{"type":"feature","properties":{"gid":112,"descriptio":null,"name":"Clement G. Morgan","neighborho":"Mid-Cambridge","marker_typ":"African American","address":"265 Prospect St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.0992874131965,42.3720048325752]}}
+,
+{"type":"feature","properties":{"gid":113,"descriptio":null,"name":"Emery T. Morris","neighborho":"Old Cambridge","marker_typ":"African American","address":"30 Parker St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1282542687097,42.3798006074315]}}
+,
+{"type":"feature","properties":{"gid":114,"descriptio":null,"name":"Patrick H. Raymond","neighborho":"Cambridgeport","marker_typ":"African American","address":"10 Pleasant St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1060402986335,42.3657606855149]}}
+,
+{"type":"feature","properties":{"gid":115,"descriptio":null,"name":"Alberta V. Scott","neighborho":"Cambridgeport","marker_typ":"African American","address":"28 Union St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.0951247466158,42.3699078033043]}}
+,
+{"type":"feature","properties":{"gid":116,"descriptio":null,"name":"Joshua Bowen Smith","neighborho":"Cambridgeport","marker_typ":"African American","address":"79 Norfolk St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1007070688544,42.3661616175109]}}
+,
+{"type":"feature","properties":{"gid":117,"descriptio":null,"name":"Rev. P. Thomas Stanford","neighborho":"NW Cambridge","marker_typ":"African American","address":"117 Dudley St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1337722151552,42.3957690958285]}}
+,
+{"type":"feature","properties":{"gid":118,"descriptio":null,"name":"Franklin H. Wright","neighborho":"Cambridgeport","marker_typ":"African American","address":"40 Magee St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1118125513674,42.366087099577]}}
+,
+{"type":"feature","properties":{"gid":119,"descriptio":"Side of the Green St parking garage","name":"Central Square","neighborho":"Cambridgeport","marker_typ":"History Station","address":"35 Pearl St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1037011562805,42.3637667314217]}}
+,
+{"type":"feature","properties":{"gid":120,"descriptio":"Lawn of Registry of Deeds","name":"East Cambridge","neighborho":"East Cambridge","marker_typ":"History Station","address":"208 Cambridge St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.0796155690601,42.3708846830666]}}
+,
+{"type":"feature","properties":{"gid":121,"descriptio":"Porter Sq T station plaza","name":"Porter Square","neighborho":"NW Cambridge","marker_typ":"History Station","address":"1853 Massachusetts Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1190628189313,42.387931749163]}}
+,
+{"type":"feature","properties":{"gid":122,"descriptio":"Riverside Press Park at Memorial Dr","name":"Riverside","neighborho":"Cambridgeport","marker_typ":"History Station","address":"345 River St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.115205140515,42.3622249849916]}}
+,
+{"type":"feature","properties":{"gid":123,"descriptio":null,"name":"Fort Washington","neighborho":"Cambridgeport","marker_typ":"History Station","address":"101 Waverly St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1055198905983,42.3559340440209]}}
+,
+{"type":"feature","properties":{"gid":124,"descriptio":null,"name":"Longfellow Park","neighborho":"Old Cambridge","marker_typ":"History Station","address":"104 Brattle St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1274334288108,42.3746364130332]}}
+,
+{"type":"feature","properties":{"gid":125,"descriptio":null,"name":"Camp Cameron","neighborho":"NW Cambridge","marker_typ":"North Cambridge","address":"3 Cameron Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1300831177903,42.3977446513784]}}
+,
+{"type":"feature","properties":{"gid":126,"descriptio":null,"name":"Carriage Making","neighborho":"NW Cambridge","marker_typ":"North Cambridge","address":"2067 Massachusetts Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1228007088747,42.3913218118455]}}
+,
+{"type":"feature","properties":{"gid":127,"descriptio":null,"name":"Cambridge Cattle Market","neighborho":"NW Cambridge","marker_typ":"North Cambridge","address":"52 Walden St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1244978846937,42.3895328291837]}}
+,
+{"type":"feature","properties":{"gid":128,"descriptio":null,"name":"Jerry's Pit","neighborho":"NW Cambridge","marker_typ":"North Cambridge","address":"365 Rindge Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1387719307039,42.394068628943]}}
+,
+{"type":"feature","properties":{"gid":129,"descriptio":null,"name":"Brick Manufacturing","neighborho":"NW Cambridge","marker_typ":"North Cambridge","address":"364 Rindge Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1384015034094,42.3938238755782]}}
+,
+{"type":"feature","properties":{"gid":130,"descriptio":null,"name":"Newtowne Club","neighborho":"NW Cambridge","marker_typ":"North Cambridge","address":"5 Davenport St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1197482637162,42.3896774293665]}}
+,
+{"type":"feature","properties":{"gid":131,"descriptio":null,"name":"Rand Estate","neighborho":"NW Cambridge","marker_typ":"North Cambridge","address":"1879 Massachusetts Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1189959124378,42.3887640764234]}}
+,
+{"type":"feature","properties":{"gid":132,"descriptio":null,"name":"Second Town Poorhouse","neighborho":"NW Cambridge","marker_typ":"North Cambridge","address":"9 Cedar St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1309506846075,42.3971115568497]}}
+,
+{"type":"feature","properties":{"gid":133,"descriptio":null,"name":"Streetcar Barns","neighborho":"NW Cambridge","marker_typ":"North Cambridge","address":"2369 Massachusetts Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1292276449805,42.3967924000064]}}
+,
+{"type":"feature","properties":{"gid":134,"descriptio":null,"name":"Tannery Brook","neighborho":"NW Cambridge","marker_typ":"North Cambridge","address":"25 Churchill Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1325844606529,42.4004666443175]}}
+,
+{"type":"feature","properties":{"gid":135,"descriptio":"Cedar Square","name":"Trotting Park","neighborho":"NW Cambridge","marker_typ":"North Cambridge","address":"35 Cedar St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1309885225518,42.3955445749909]}}
+,
+{"type":"feature","properties":{"gid":136,"descriptio":null,"name":"Watson's Corner","neighborho":"NW Cambridge","marker_typ":"North Cambridge","address":"2170 Massachusetts Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1250421215385,42.3925149008559]}}
+,
+{"type":"feature","properties":{"gid":137,"descriptio":"west of Story St","name":"Spreading Chestnut Tree","neighborho":"Old Cambridge","marker_typ":"Tombstone","address":"52 Brattle St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1219429842116,42.3743789425975]}}
+,
+{"type":"feature","properties":{"gid":138,"descriptio":"near South St","name":"Thomas Dudley House","neighborho":"Old Cambridge","marker_typ":"Tombstone","address":"71 Dunster St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1198734356734,42.3713627800915]}}
+,
+{"type":"feature","properties":{"gid":139,"descriptio":"at Fresh Pond Pkwy","name":"Elmwood House","neighborho":"Old Cambridge","marker_typ":"Tombstone","address":"33 Elmwood Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1380190999303,42.3748703622906]}}
+,
+{"type":"feature","properties":{"gid":140,"descriptio":null,"name":"Christ Church","neighborho":"Old Cambridge","marker_typ":"Tombstone","address":"0 Garden St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1204648242512,42.3755831954167]}}
+,
+{"type":"feature","properties":{"gid":141,"descriptio":"between Massachusetts Ave and Bow St","name":"Apthorp House","neighborho":"Mid-Cambridge","marker_typ":"Tombstone","address":"20 Plympton St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1166230265298,42.3720239342769]}}
+,
+{"type":"feature","properties":{"gid":142,"descriptio":null,"name":"Inman House","neighborho":"Mid-Cambridge","marker_typ":"Tombstone","address":"15 Inman St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1048729683074,42.3674112237119]}}
+,
+{"type":"feature","properties":{"gid":143,"descriptio":"at Lehman Hall","name":"Fourth Meeting House","neighborho":"Old Cambridge","marker_typ":"Tombstone","address":"1399 Massachusetts Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.118631972985,42.3735359283937]}}
+,
+{"type":"feature","properties":{"gid":144,"descriptio":null,"name":"Skirmish Site","neighborho":"NW Cambridge","marker_typ":"Tombstone","address":"2162 Massachusetts Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1249030697968,42.3924789120891]}}
+,
+{"type":"feature","properties":{"gid":145,"descriptio":null,"name":"Fort #2","neighborho":"Cambridgeport","marker_typ":"Tombstone","address":"62 Putnam Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1134638830055,42.3682284312055]}}
+,
+{"type":"feature","properties":{"gid":146,"descriptio":"at Putnam School","name":"Lechmere Point","neighborho":"East Cambridge","marker_typ":"Tombstone","address":"69 Sciarappa St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.0817657603703,42.3703850583745]}}
+,
+{"type":"feature","properties":{"gid":147,"descriptio":"at Massachusetts Ave","name":"Old Cambridge","neighborho":"Old Cambridge","marker_typ":"Cast-Iron","address":"1 Dunster St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1188429876474,42.3731743004091]}}
+,
+{"type":"feature","properties":{"gid":148,"descriptio":"opposite Elmwood Ave","name":"Sir Richard's Landing","neighborho":"Old Cambridge","marker_typ":"Cast-Iron","address":"6 Gerry's Landing Rd","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1377430125201,42.3745026660239]}}
+,
+{"type":"feature","properties":{"gid":149,"descriptio":"at Linnaean St","name":"Cooper-Frost-Austin House","neighborho":"Old Cambridge","marker_typ":"Cast-Iron","address":"1750 Massachusetts Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1196320909795,42.3849844493062]}}
+,
+{"type":"feature","properties":{"gid":150,"descriptio":"In front of Registry","name":"Registry of Deeds","neighborho":"East Cambridge","marker_typ":"Blue Oval","address":"240 Cambridge St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.0797364252706,42.3708968144677]}}
+,
+{"type":"feature","properties":{"gid":151,"descriptio":null,"name":"Soap Workers Cottages","neighborho":"Cambridgeport","marker_typ":"Blue Oval","address":"7 Cottage St","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1053629656279,42.3623602040442]}}
+,
+{"type":"feature","properties":{"gid":152,"descriptio":null,"name":"Fresh Pond Hotel","neighborho":"NW Cambridge","marker_typ":"Blue Oval","address":"234 Lakeview Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.140925041777,42.3829221080724]}}
+,
+{"type":"feature","properties":{"gid":153,"descriptio":null,"name":"Reverend J. Henry Duckrey","neighborho":"Mid-Cambridge","marker_typ":"African American","address":"32 Magnolia Ave","editdate":null},"geometry":{"type":"Point","coordinates":[-71.1070160260087,42.3768526687985]}}
+]
