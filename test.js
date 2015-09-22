@@ -4,13 +4,16 @@ var test = require('tape');
 var foo = require('./fixtures/foo.json');
 
 test('compare', function (t) {
-  t.plan(1);
   var data = [];
   fromPostgres({
       database: 'pg2cartodb'
   }, 'foo', 'geom').on('data', function (d) {
     data.push(d);
   }).on('end', function () {
-    t.deepEquals(foo, data);
+    t.equals(data.length, foo.length, 'correct length');
+    data.forEach(function (item, i) {
+      t.deepEquals(item, foo[i], 'check item ' + i);
+    });
+    t.end();
   });
 });

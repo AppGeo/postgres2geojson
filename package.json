@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "npm run setup-db && node test.js",
-    "dropdb": "psql -c 'DROP DATABASE IF EXISTS pg2cartodb;' -U postgres",
-    "createdb": "psql -c 'CREATE DATABASE pg2cartodb;' -U postgres",
+    "dropdb": "psql -c 'DROP DATABASE IF EXISTS pg2cartodb;'",
+    "createdb": "psql -c 'CREATE DATABASE pg2cartodb;'",
     "setup-db": "npm run dropdb && npm run createdb && npm run add-extention && npm run insert-data",
-    "add-extention": "psql -d pg2cartodb -c 'CREATE EXTENSION postgis;' -U postgres",
-    "insert-data": "psql -U postgres -d pg2cartodb < fixtures/foo.sql"
+    "add-extention": "psql -d pg2cartodb -c 'CREATE EXTENSION postgis;'",
+    "insert-data": "psql -d pg2cartodb < fixtures/foo.sql"
   },
   "repository": {
     "type": "git",
