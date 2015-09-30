@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/calvinmetcalf/postgres2geojson.git"
+    "url": "git+https://github.com/appgeo/postgres2geojson.git"
   },
   "author": "Calvin W. Metcalf <calvin.metcalf@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/calvinmetcalf/postgres2geojson/issues"
+    "url": "https://github.com/appgeo/postgres2geojson/issues"
   },
-  "homepage": "https://github.com/calvinmetcalf/postgres2geojson#readme",
+  "homepage": "https://github.com/appgeo/postgres2geojson#readme",
   "dependencies": {
     "knex": "^0.8.6",
     "pg": "^4.4.0",
