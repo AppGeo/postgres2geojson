@@ -1,6 +1,6 @@
 {
   "name": "postgres2geojson",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "turn postgres into geojson",
   "main": "index.js",
   "scripts": {
